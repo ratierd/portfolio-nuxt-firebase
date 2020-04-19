@@ -1,0 +1,232 @@
+{
+  "today": "Aujourd'hui",
+  "author": "David Ratier",
+  "menu": {
+    "title": "portfolio",
+    "home": "Accueil",
+    "resume": "CV",
+    "projects": "Projets",
+    "blog": "Blog",
+    "contact": "Contact",
+    "lang": "English",
+    "lang_symbole": "EN"
+  },
+  "intro": {
+    "sentence": "Jeune français diplômé en Master Informatique",
+    "button": "Telecharger CV (PDF)"
+  },
+  "resume": {
+    "filepath": "/cv-francais.pdf",
+    "title": "CV (Dernière MaJ: 30 Septembre 2018)",
+    "quote": "Jeune diplômé d'un Master informatique à l'Université des Sciences et Technologies d'Hanoï. Diplômé d'une maitrise de l'université de South Wales au Royaume Uni. Polyvalent grâce à un parcours aux enseignements variés (POO, Programmation web, Programmation Mobile, Programmation fonctionnelle, Bases de données, Informatique embarquée, Machine Learning, Gestion de projets)",
+    "skillsword": "Compétences",
+    "skills": {
+      "technical": "Techniques",
+      "POO": "Programmation orientée objet (Java, C#, C++)",
+      "mobile": "Développement mobile (Android, IOS)",
+      "backend": "Back-end (NodeJS, PHP)",
+      "frontend": "Front-end (HTML, CSS, Javascript, VueJS, React, Zend 2, Symphony...)",
+      "embedded": "Informatique embarquée",
+      "networkandsecurity": "Réseau et sécurité",
+      "UML": "Conception UML",
+      "management": "Gestion de projet",
+      "languages": "Langues",
+      "french": "Français (langue maternelle)",
+      "english": "Anglais (courant oral et écrit + vocabulaire technique)",
+      "japanese": "Japonais (débutant)",
+      "others": "Autres",
+      "PSE1": "PSE1 (Premiers Secours en Equipe niveau 1)"
+    },
+    "education": {
+      "word": "Formation",
+      "master": {
+        "title": "University of Science and Technologies of Hanoï, Master STIC",
+        "description": "Seconde année de Master informatique effectué à l'étranger (<u>Vietnam</u>) en accord avec l'établissement de rattachement (Université de La Rochelle). <u>Parcours Data</u>",
+        "details": {
+          "mobile-programming": " (Programmation mobile)",
+          "cloud-big-data": "",
+          "data-mining": "",
+          "data-exploitation": " (Exploitation de données)",
+          "research": " (Recherche scientifique)",
+          "internship": " (Stage)"
+        }
+      },
+      "maitrise": {
+        "title": "University of South Wales, Treeforest, Msc Computer Science",
+        "description": "Maîtrise en informatique effectuée à l'étranger (<u>Royaume-Uni</u>) en accord avec l'établissement de rattachement (Université de la Rochelle)",
+        "details": {
+          "independant-study": " (Recherche en autonomie)",
+          "software-dev": " (Développement logiciel)",
+          "network-security": " (Sécurité réseaux)",
+          "mobile": " (Développement d'applications mobiles)",
+          "neural-networks": " (Réseaux de neurones artificiels)",
+          "expert-systems": " (Systèmes experts)",
+          "research": " (Méthodes de recherche)",
+          "management": " (Gestion de projet)",
+          "projects": " (Projet d'étude)"
+        }
+      },
+      "licence": {
+        "title": "Université de La Rochelle, Licence Informatique",
+        "description": "3ème année de licence informatique. <u>Parcours Développement Logiciel</u>",
+        "details": {
+          "english": "",
+          "embedded-systems": "",
+          "system-simulation": "",
+          "environment": "",
+          "logical-prog": "",
+          "data-structures": "",
+          "databases": "",
+          "case-study": "",
+          "compilation": "",
+          "IHM": "",
+          "software": "",
+          "internship": ""
+        }
+      },
+      "dut": {
+        "title": "IUT Informatique de La Rochelle, DUT Informatique",
+        "description": "<u>Parcours Informatique Embarquée</u>",
+        "details": {
+          "ANG1": "",
+          "EC1": "",
+          "ECO1": "",
+          "ORGA1": "",
+          "AP1-1": "",
+          "AP1-2": "",
+          "BD1": "",
+          "SI1": "",
+          "MD1": "",
+          "PPP1": "",
+          "PROJET1": "",
+          "EC2": "",
+          "ECJ": "",
+          "AMN2": "",
+          "BCOO2": "",
+          "GPI2": "",
+          "RES2": "",
+          "SI2": "",
+          "ANG3": "",
+          "DTIC3": "",
+          "EC3": "",
+          "AA3": "",
+          "ASE3-IE": "",
+          "GSI3": "",
+          "MPA3": "",
+          "PROGWEB3": "",
+          "RES3": "",
+          "SI3": "",
+          "STAT3": "",
+          "PROJET3": "",
+          "ANG4-IE": "",
+          "EC4-IE": "",
+          "ISE4-IE": "",
+          "ITS4-IE": "",
+          "PNM4-IE": "",
+          "PP4-IE": "",
+          "ROC4-IE": "",
+          "SEE4-IE": "",
+          "MTS4-IE": "",
+          "PROJ4-IE": "",
+          "STAGE-IE": ""
+        }
+      },
+      "lycee": {
+        "title": "Lycée Kastler-Guitton, La Roche sur Yon, Baccalauréat Scientifique",
+        "description": "Option Sciences de l'ingénieur - Spécialité Mathématiques - Anglais section Européenne (Enseignement pour les Sciences de l'ingénieur)"
+      }
+    },
+    "experience": {
+      "word": "Experience professionnelle",
+      "concord": {
+        "title": "Développeur front-end chez Concord"
+      },
+      "kasetsart2018": {
+        "title": "Stagiaire",
+        "description": "Stage de fin de master informatique dans la continuité d'un stage réalisé en 2015. Sujet de recherche : Data Stream Clustering (<u>Data Mining</u>)"
+      },
+      "panga": {
+        "title": "Stagiaire",
+        "description": "Stage de fin de licence informatique dans une start-up rochellaise. Travail en collaboration avec les développeurs de l'entreprise pour le développement du projet \"Hosen - Home Security Network\" financé par la fondation Maif. <u>Développement fullstack(base de données, back-end, front-end)</u>"
+      },
+      "kasetsart2015": {
+        "title": "Stagiaire",
+        "description": "Stage de fin de DUT dans le département informatique de l'université de Kasetsart à Bangkok, en Thaïlande. Travail orienté principalement sur la fouille de données (<u>Data Mining</u>) et plus particulièrement sur les algorithmes de clustering. Création d'une application en <u>Java</u> permettant la visualisation des performances de l'algorithme de clustering \"E-Stream\" utilisant la librairie MOA"
+      },
+      "serli": {
+        "title": "Développeur pour projet d'études",
+        "description": "En collaboration avec le groupe Serli dans le cadre d'un projet de seconde année en DUT Informatique. Travail en équipe sur la mise en place d'un <u>réseau de capteurs</u> et le déploiement d'un serveur web (<u>NodeJS</u>) permettant de consulter l'état d'ouverture des fenêtres du local en temps réel via une <u>interface web</u>"
+      }
+    },
+    "additionalactivities": {
+      "word": "Expériences diverses",
+      "partnaire2017": {
+        "title": "Intérimaire",
+        "description": "Travail saisonnier à l'abattoir de l'entreprise ARRIVE"
+      },
+      "japan": {
+        "title": "Voyage touristique au Japon",
+        "description": "Voyage d'un mois avec un ami étudiant. Visite culturelle de différentes villes du Japon (Osaka, Kyoto, Nara, Kobe, Okayama, Takamatsu, Nagoya, Tokyo)"
+      },
+      "partnaire2015": {
+        "title": "Intérimaire",
+        "description": "Travail étudiant dans l'entreprise ARRIVE (Abattage, découpe et conditionnement de volailles). Compostage et déstockage les samedis et durant les vacances scolaires"
+      },
+      "envol": {
+        "title": "Animateur",
+        "description": "Travail saisonnier dans une entreprise spécialisée dans l'événementiel. Mise en place et animation de structures de loisirs sur différents lieux de prestation"
+      },
+      "adecco": {
+        "title": "Intérimaire",
+        "description": "Travail saisonnier consistant en diverses petites missions (Déménagement, Assistant cuisine, Manutention)"
+      },
+      "AJA": {
+        "title": "Secrétaire",
+        "description": "Association des Jeunes d'Aubigny (AJA)"
+      }
+    }
+  },
+  "projects": {
+    "seemore": "Voir plus",
+    "viettech": {
+      "date": "04 Octobre, 2018",
+      "dateFormatted": "2018-10-04",
+      "description": "Ce projet est un site web statique réalisé à la demande d'étudiants de l'université FTU (Foreign Trade University) d'Hanoï dans le cadre de leur projet d'investigation concernant les acteurs de l'innovation du Vietnam. Le site est généré en local avec un serveur NodeJS utilisant le framework Nuxt (extension du populaire framework Vue). Le site ne sera pas amené à changer et l'on ne prévoit que peu de visite d'où le choix de construire un site statique. Nuxt est idéal dans ce cas car il apporte un confort de développement de Vue avec une grande facilité de génération et d'injection de contenu. On utilise la plateforme Firebase de Google afin de publier le site (dans un souci d'économie, le nom de domaine par défaut a été conservé)."
+    },
+    "MOA": {
+      "date": "14 Septembre, 2018",
+      "dateFormatted": "2018-09-14",
+      "description": "Ce projet est une implémentation de plusieurs algorithmes de clustering (E-Stream, SE-Stream et SED-Stream) développé en Java à l'aide du framework MOA. MOA (Massive Online Analysis) est un framework open-source vastement utilisé par les chercheurs en science des données pour tester, visualiser et comparer différents algorithmes de machine learning. En lien avec le projet WEKA, développé par l'Université de Waikato en Nouvelle-Zélande, le framework MOA est spécialisé pour les projets impliquant des flots de données (data stream)."
+    },
+    "coursework-android-app": {
+      "date": "04 Mai, 2017",
+      "dateFormatted": "2017-05-04",
+      "description": "Ce projet est une application mobile pour Android développer en Java (Kotlin est désormais le langage recommandé pour développer sur Android). L'application permet à l'utilisateur de suivre des cours et de répondre à des quizz de différentes natures (QCM, Vrai ou Faux, Question ouverte). Un système de score est mis en place pour les quizz avec un récapitulatif et des graphes d'évolution pour chaque sujet. Les cours et les quizz peuvent être téléchargés sur l'application depuis un serveur externe déployé à l'aide du service Firebase de Google. Les fichiers du serveur utilisent simplement le format JSON pour représenter les cours et les quizz auxquels s'ajoutent d'éventuelles images."
+    },
+    "show-manager": {
+      "date": "26 Avril, 2017",
+      "dateFormatted": "2017-04-26",
+      "description": "Ce projet est une application desktop permettant de lister, trier, noter et commenter vos séries, films ou documentaires préférés. L'application est implémenté en C# et l'interface utilise WPF avec le framework .NET de Microsoft afin d'obtenir une interface plus attrayante que celle proposée par défaut. L'application utilise une API libre afin de récupérer diverses informations sur les médias que l'utilisateur souhaite ajouter à ses collections. Un système de catégories est implémenté permettant de classer ses médias ainsi qu'un système de label permettant d'indiquer un statut (vu, série en cours, intéressé...)"
+    },
+    "ruzzle": {
+      "date": "15 Decembre, 2015",
+      "dateFormatted": "2015-12-15",
+      "description": "Ce projet est une version desktop du jeu de vocabulaire Ruzzle disponible sur mobile. L'application met en œuvre des structures de données et des algorithmes avancés. Le principe est de construire des mots de la langue française en utilisant la grille de lettres générée à chaque partie, en se déplaçant de case en case et en ne passant pas plus d'une fois par case. Le dictionnaire est utilisé pour générer un arbre. Chaque lettre formant un mot va créer ou emprunter un chemin de l’arbre et ainsi indexer toutes les possibilités. Grace à cette structure, on peut vérifier les mots que le joueur valide mais aussi connaitre l'ensemble des mots qu'une grille donnée est capable de générer. Un système de points, de multiplicateur de score et de timer est implémenté pour le challenge."
+    },
+    "jeuxdicode": {
+      "date": "29 Novembre, 2014",
+      "dateFormatted": "2014-11-29",
+      "description": "Ce projet est une application web de gestion d'événements développés en PHP avec le framework Zend et avec les technologies de bases du web (HTML, CSS, Javascript). Cette application a été développée durant le cours de programmation web de DUT Informatique à La Rochelle (2013-2015). La méthodologie agile a été utilisée durant ce projet avec des sprints d’une semaine et des équipes de 3, sur 8 itérations. En plus des notions de gestion de projet enseignées avec la méthodologie agile, le système de gestion de version git a été utilisé pour apprendre à travailler efficacement en équipe."
+    },
+    "pacman": {
+      "date": "21 Juin, 2014",
+      "dateFormatted": "2014-06-21",
+      "description": "Ce projet consistait à développer une version du célèbre jeu Pacman pour un système embarqué ne disposant pas de système d'exploitation (microcontroleur STMicroelectronics STM32F10x). Pour ce faire, le jeu est développé en C et on utilise la librairie standard développée par STMicroelectronics pour contrôler les périphériques du système. On utilise l'IDE Keil μVision pour la configuration et la compilation du projet. Plusieurs étapes sont nécessaires au fonctionnent du jeu, gestion de la vitesse de déplacement des personnages, gestion des obstacles, gestion des changements de direction, gestion de l'animation des personnages, gestion de la nourriture du pacman, gestion du comportement des ennemis... Certains problèmes plus spécifiques au système, et notamment au matériel, doivent également être gérés comme pour l'effet de rebond de certains boutons qui n'est pas géré par le matériel sur ce modèle de système."
+    }
+  },
+  "contact": {
+    "mail": "Votre e-mail",
+    "message": "Votre message",
+    "send": "Envoyer"
+  }
+}

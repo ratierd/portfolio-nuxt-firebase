@@ -1,0 +1,231 @@
+{
+  "today": "Today",
+  "author": "David Ratier",
+  "menu": {
+    "title": "portfolio",
+    "home": "Home",
+    "resume": "Resume",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact",
+    "lang": "Français",
+    "lang_symbole": "FR"
+  },
+  "intro": {
+    "sentence": "Young french graduate of Computer Science master degree",
+    "button": "Download Resume (PDF)"
+  },
+  "resume": {
+    "filepath": "/cv-english.pdf",
+    "title": "CV (Last Update: 30 September 2018)",
+    "quote": "Computer Science master degree graduate from University of Sciences and Technologies of Hanoi. Graduated in MSc Computer Science from South Wales University in United Kingdom. Versatile thanks to a wide variety of courses (OOP, Web, Mobile, Functional programming, Databases environments, Embedded computing, Data Mining, Machine Learning, Project management)",
+    "skillsword": "Skills",
+    "skills": {
+      "technical": "Technical",
+      "POO": "Object oriented programming (Java, C#, C++)",
+      "mobile": "Mobile development (Android, IOS)",
+      "backend": "Back-end (NodeJS, PHP)",
+      "frontend": "Front-end (HTML, CSS, Javascript, VueJS, React, Zend 2, Symphony...)",
+      "embedded": "Embedded systems",
+      "networkandsecurity": "Network and security",
+      "UML": "System design (UML)",
+      "management": "Project management",
+      "languages": "Languages",
+      "french": "French (mother tongue)",
+      "english": "English (fluent speech and writing + technical vocabulary)",
+      "japanese": "Japanese (beginner)",
+      "others": "Others",
+      "PSE1": "PSE1 (first aid in team skills certificate)"
+    },
+    "education": {
+      "word": "Education",
+      "master": {
+        "title": "University of Science and Technologies of Hanoï, Master STIC",
+        "description": "Second year of master degree in computer science. Studied abroad (<u>Vietnam</u>) in cooperation with La Rochelle University in France. <u>Data Science</u>",
+        "details": {
+          "mobile-programming": "",
+          "cloud-big-data": "",
+          "data-mining": "",
+          "data-exploitation": "",
+          "research": "",
+          "internship": ""
+        }
+      },
+      "maitrise": {
+        "title": "University of South Wales, Treeforest, MSc Computer Science",
+        "description": "MSc Computer Science degree. Studied abroad (<u>Wales, UK</u>) in cooperation with La Rochelle University in France",
+        "details": {
+          "independant-study": "",
+          "software-dev": "",
+          "network-security": "",
+          "mobile": "",
+          "neural-networks": "",
+          "expert-systems": "",
+          "research": "",
+          "management": "",
+          "projects": ""
+        }
+      },
+      "licence": {
+        "title": "La Rochelle University, Bachelor degree in Computer Science",
+        "description": "Third year of bachelor degree in computer science. <u>Software Development</u>",
+        "details": {
+          "english": " (English)",
+          "embedded-systems": " (Embedded system development)",
+          "system-simulation": " (System simulation)",
+          "environment": " (Environment and sustainable development in computer science)",
+          "logical-prog": " (Logic programming language)",
+          "data-structures": " (Advanced data structures c++)",
+          "databases": " (Databases)",
+          "case-study": " (Case study)",
+          "compilation": " (Compilation)",
+          "IHM": " (Human-machine interface)",
+          "software": " (Software engineering)",
+          "internship": " (Internship)"
+        }
+      },
+      "dut": {
+        "title": "La Rochelle IUT, DUT Computer Science",
+        "description": "2 years technical degree in computer science. <u>Embedded Systems</u>",
+        "details": {
+          "ANG1": " (English)",
+          "EC1": " (Expression and Communication)",
+          "ECO1": " (Economical environment)",
+          "ORGA1": " (System organizations)",
+          "AP1-1": " (Algorithmic and programming introduction)",
+          "AP1-2": " (Fondamental data structures and algorithm",
+          "BD1": " (Databases introduction)",
+          "SI1": " (Computing systems introduction)",
+          "MD1": " (Discrete mathematics)",
+          "PPP1": " (Knowing the professional world)",
+          "PROJET1": " (Tutored project)",
+          "EC2": " (Expression and Communication)",
+          "ECJ": " (Accounting, financial, legal and social environments)",
+          "AMN2": " (Numerical analysis)",
+          "BCOO2": " (Oriented Object Designing Introduction)",
+          "GPI2": " (IT project management)",
+          "RES2": " (Networks architecture)",
+          "SI2": " (Low level systems architecture)",
+          "ANG3": " (English)",
+          "DTIC3": " (IT laws)",
+          "EC3": " (Expression and communication)",
+          "AA3": " (Advanced algorithmic)",
+          "ASE3-IE": " (Embedded architecture)",
+          "GSI3": " (Information systems management)",
+          "MPA3": " (Application production methodology)",
+          "PROGWEB3": " (Back-end development)",
+          "RES3": " (Network services)",
+          "SI3": " (Operating systems fundamentals)",
+          "STAT3": " (Probabilities and statistics)",
+          "PROJET3": " (Tutored project)",
+          "ANG4-IE": " (English)",
+          "EC4-IE": " (Expression and communication)",
+          "ISE4-IE": " (Embedded systems interface)",
+          "ITS4-IE": " (Signal processing)",
+          "PNM4-IE": " (Native mobile programming)",
+          "PP4-IE": " (Drivers)",
+          "ROC4-IE": " (Smart objects network)",
+          "SEE4-IE": " (Embedded operating systems)",
+          "MTS4-IE": " (Signal processing mathematics)",
+          "PROJ4-IE": " (Tutored project)",
+          "STAGE-IE": " (Internship)"
+        }
+      },
+      "lycee": {
+        "title": "Kastler-Guitton High School, La Roche sur Yon, High School Diploma",
+        "description": "Engineering Sciences option - Mathematic specialization - English European section"
+      }
+    },
+    "experience": {
+      "word": "Experience",
+      "concord": {
+        "title": "Front-end developer at Concord"
+      },
+      "kasetsart2018": {
+        "title": "Intern",
+        "description": "Master degree final internship. Research work following a previous internship in 2015 on Data Stream Clustering (<u>Data Mining</u>)."
+      },
+      "panga": {
+        "title": "Intern",
+        "description": "Bachelor degree internship in a French start-up located in La Rochelle. Work in cooperation with the company's senior developers on the \"Hosen - Home Security Network\" project, funded by Maif fondation. <u>Full-Stack development (neo4j, back-end: NodeJS, front-end: HTML-CSS-Javascript)</u>"
+      },
+      "kasetsart2015": {
+        "title": "Intern",
+        "description": "Final internship for DUT degree (2 years technical formation in France) in the computer science faculty of the university of Kasetsart, Bangkok, Thaïland. <u>Data Mining</u> work on data stream clustering algorithms. Implementation of \"E-Stream\" clustering algorithm in <u>Java</u> using the MOA framework."
+      },
+      "serli": {
+        "title": "Developer for student project",
+        "description": "Cooperation with Serli group for a student project during the second year of DUT degree (2 years technical formation in France). <u>Sensors network</u> deployment along with a web server (<u>NodeJS</u>) to create a <u>web interface</u> displaying in real time weither the windows of the office are open or not."
+      }
+    },
+    "additionalactivities": {
+      "word": "Additional activities",
+      "partnaire2017": {
+        "title": "Interim",
+        "description": "Summer job at ARRIVE chicken factory"
+      },
+      "japan": {
+        "title": "Trip to Japan",
+        "description": "Month long trip in Japan. Cultural tourism in different japanese cities (Osaka, Kyoto, Kobe, Okayama, Takamatsu, Nagoya, Tokyo)"
+      },
+      "partnaire2015": {
+        "title": "Interim",
+        "description": "Student job at ARRIVE chicken factory"
+      },
+      "envol": {
+        "title": "Animator",
+        "description": "Summer job in a companie with specialization in entertainment. Installation and animation of inflatable structures in different locations"
+      },
+      "adecco": {
+        "title": "Interim",
+        "description": "Summer job (moving service, cooking assistant, handling)"
+      },
+      "AJA": {
+        "title": "Secretary"
+      }
+    }
+  },
+  "projects": {
+    "seemore": "See more",
+    "viettech": {
+      "date": "October 04, 2018",
+      "dateFormatted": "2018-10-04",
+      "description": "This project is a static website created for FTU (Foreign Trade University) students in Hanoi for their investigation project on Vietnam innovation stakeholders. The website is generated using a local NodeJS server along with Nuxt (Vue framework extension). The website isn't meant to change a lot over time and the traffic is expected to stay quite low hence the choice of a static website. Nuxt is ideal in those case because it provides the development confort of Vue with great ease of generation and integration of content. The Firebase platform from Google is used to deploy the webssite (for economical purposes the default domain name has been kept)."
+    },
+    "MOA": {
+      "date": "September 14, 2018",
+      "dateFormatted": "2018-09-14",
+      "description": "This project is an implementation of several clustering algorithms (E-Stream, SE-Stream and SED-Stream) developed in Java using the MOA framework. MOA (Massive Online Analysis) is an open-source framework that is widely used by researchers and data scientists to test, visualize and compare different machine learning algorithm. Related to the WEKA project, developed by the University of Waikato in New Zealand, the MOA framework is specialized for data stream projects."
+    },
+    "coursework-android-app": {
+      "date": "May 04, 2017",
+      "dateFormatted": "2017-05-04",
+      "description": "This project is a native mobile application for Android developed in Java (Kotlin is now the recommended language for Android development). The app allows the user to follow courses and test his knowledge with different quizzes (multiple choice question, true or false, open question). A score system is implemented for quizzes along with a summary and progression graphs for each topic. Courses and quizzes can be downloaded on the app from an external server deployed with Firebase platform (Google). The files on the server are simply coded using JSON format to represent the courses and quizzes along with potential images."
+    },
+    "show-manager": {
+      "date": "April 26, 2017",
+      "dateFormatted": "2017-04-26",
+      "description": "This project is a desktop application meant to list, sort, categorize, rate and comment on your favourite TV shows or movies. The app is written in C# and the user interface uses WPF (.NET Framework) from Microsoft in order to be able to design a more attractive layout than with the default Windows app. The app uses a free open API to retrieve various informations about any show the user wants to add to his collections. A category system is implemented to be able to organize the shows along with a label system to indicate a status (e.g. watched, ongoing serie, considered...)."
+    },
+    "ruzzle": {
+      "date": "December 15, 2015",
+      "dateFormatted": "2015-12-15",
+      "description": "This project is a desktop version of the vocubulary game Ruzzle available on mobile devices. The app uses advanced algorithm and data structures. The goal is to build words from the French language using the letters in the grid generated at each game by moving from cell to cell (one cell can only be visited once). The dictionary is used to generate a tree. Each letter of a word is going to create or visit a node along the tree's path and therefore create an index of every possible word. Thanks to this data structure we can check the words a player would submit, but we can also generate the list of all the words a given grid is able to generate. Score system, bonuses and timer are implemented to spice up the challenge."
+    },
+    "jeuxdicode": {
+      "date": "November 29, 2014",
+      "dateFormatted": "2014-11-29",
+      "description": "This project is an event management web application developed in PHP with Zend framework and the classic web stack (HTML, CSS, Javascript). This app has been developed during a web programming course (DUT Informatique La Rochelle 2013-2015). The agile methodology has been used during this project with week-long sprints and teams of 3 people over 8 iterations. Along the notions of project management we learned with the agile methodology, the versioning management system git has been used to learn modern developer workflow and how to work efficiently in team on such a project."
+    },
+    "pacman": {
+      "date": "June 21, 2014",
+      "dateFormatted": "2014-06-21",
+      "description": "This project is an implementation of the famous game Pacman for an embedded system that isn't shipped with an operating system (STMicroelectronics STM32F10x chipset). The game has been coded with the low-level programming language C and we used the standard library developed by STMicroelectronics to control the systems components (buttons, screen, clock...). We use Keil μVision IDE for the configuration and to compile the project. Several steps are necessary for the game to behave properly such as the management of the characters movement, obstacle management, direction management, animation of the characters sprite, pacman's food management and bonuses, ennemies bahaviour... Some problems more specific to the hardware also needs to be solved like the rebond effect of the buttons of the chip that are not treated by the harware on this model."
+    }
+  },
+  "contact": {
+    "mail": "Your mail",
+    "message": "Your message",
+    "send": "Send"
+  }
+}
